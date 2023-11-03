@@ -6,9 +6,9 @@ For installing this package, you must execute the following command:
 ```
 dotnet add package accelerate.exceptions
 ```
-## How to use
-
 ## Changes history
+**Version 6.0.0**
+- Changed version to a system based on .NET Core version supported.  
 **Version 1.0.0**
 - Included exception for errors related to business processes or rules.  
 - Included exception for errors related to duplicate values or objects.  
